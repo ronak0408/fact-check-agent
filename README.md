@@ -1,4 +1,4 @@
-# 🔍 Fact-Check AI Agent
+# 🔍 Fact-Check Agent
 
 A Web application that automatically extracts and verifies factual claims from uploaded PDF documents using LLMs and live web search.
 
