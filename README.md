@@ -12,7 +12,7 @@ Built as a technical assessment project focused on combating hallucinated or out
 - Upload PDF documents directly through the Streamlit frontend
 - Extracts text using PyMuPDF
 
-### 🧠 AI Claim Extraction
+### 🧠 Claim Extraction
 - Automatically detects factual claims from PDFs
 - Supports:
   - statistics
